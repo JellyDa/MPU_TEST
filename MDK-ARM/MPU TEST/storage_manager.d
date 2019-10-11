@@ -1,0 +1,14 @@
+mpu test\storage_manager.o: ..\..\DMP_Lib\mllite\storage_manager.c
+mpu test\storage_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mpu test\storage_manager.o: ..\..\DMP_Lib\mllite\storage_manager.h
+mpu test\storage_manager.o: ..\..\DMP_Lib\driver\include\mltypes.h
+mpu test\storage_manager.o: ..\..\DMP_Lib\driver\include\stdint_invensense.h
+mpu test\storage_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mpu test\storage_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+mpu test\storage_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mpu test\storage_manager.o: ..\..\DMP_Lib\driver\include\log.h
+mpu test\storage_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mpu test\storage_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+mpu test\storage_manager.o: ..\..\DMP_Lib\mllite\ml_math_func.h
+mpu test\storage_manager.o: ..\..\DMP_Lib\driver\include\mlmath.h
+mpu test\storage_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\math.h

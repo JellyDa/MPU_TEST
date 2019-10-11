@@ -1,0 +1,11 @@
+mpu test\ml_math_func.o: ..\..\DMP_Lib\mllite\ml_math_func.c
+mpu test\ml_math_func.o: ..\..\DMP_Lib\driver\include\mlmath.h
+mpu test\ml_math_func.o: F:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+mpu test\ml_math_func.o: ..\..\DMP_Lib\mllite\ml_math_func.h
+mpu test\ml_math_func.o: ..\..\DMP_Lib\driver\include\mltypes.h
+mpu test\ml_math_func.o: ..\..\DMP_Lib\driver\include\stdint_invensense.h
+mpu test\ml_math_func.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mpu test\ml_math_func.o: F:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mpu test\ml_math_func.o: F:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+mpu test\ml_math_func.o: F:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mpu test\ml_math_func.o: ..\..\DMP_Lib\driver\include\mlinclude.h

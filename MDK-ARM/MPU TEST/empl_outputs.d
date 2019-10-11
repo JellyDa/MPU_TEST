@@ -1,0 +1,14 @@
+mpu test\empl_outputs.o: ..\..\DMP_Lib\eMPL-hal\eMPL_outputs.c
+mpu test\empl_outputs.o: ..\..\DMP_Lib\eMPL-hal\eMPL_outputs.h
+mpu test\empl_outputs.o: ..\..\DMP_Lib\driver\include\mltypes.h
+mpu test\empl_outputs.o: ..\..\DMP_Lib\driver\include\stdint_invensense.h
+mpu test\empl_outputs.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mpu test\empl_outputs.o: F:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mpu test\empl_outputs.o: F:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+mpu test\empl_outputs.o: F:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mpu test\empl_outputs.o: ..\..\DMP_Lib\mllite\ml_math_func.h
+mpu test\empl_outputs.o: ..\..\DMP_Lib\driver\include\mlmath.h
+mpu test\empl_outputs.o: F:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+mpu test\empl_outputs.o: ..\..\DMP_Lib\mllite\start_manager.h
+mpu test\empl_outputs.o: ..\..\DMP_Lib\mllite\data_builder.h
+mpu test\empl_outputs.o: ..\..\DMP_Lib\mllite\results_holder.h

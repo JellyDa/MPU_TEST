@@ -1,0 +1,16 @@
+mpu test\mpl.o: ..\..\DMP_Lib\mllite\mpl.c
+mpu test\mpl.o: ..\..\DMP_Lib\mllite\storage_manager.h
+mpu test\mpl.o: ..\..\DMP_Lib\driver\include\mltypes.h
+mpu test\mpl.o: ..\..\DMP_Lib\driver\include\stdint_invensense.h
+mpu test\mpl.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mpu test\mpl.o: F:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mpu test\mpl.o: F:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+mpu test\mpl.o: F:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mpu test\mpl.o: ..\..\DMP_Lib\driver\include\log.h
+mpu test\mpl.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mpu test\mpl.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+mpu test\mpl.o: ..\..\DMP_Lib\mllite\mpl.h
+mpu test\mpl.o: ..\..\DMP_Lib\mllite\start_manager.h
+mpu test\mpl.o: ..\..\DMP_Lib\mllite\data_builder.h
+mpu test\mpl.o: ..\..\DMP_Lib\mllite\results_holder.h
+mpu test\mpl.o: ..\..\DMP_Lib\driver\include\mlinclude.h

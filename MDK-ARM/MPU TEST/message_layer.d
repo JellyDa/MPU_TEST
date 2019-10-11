@@ -1,0 +1,11 @@
+mpu test\message_layer.o: ..\..\DMP_Lib\mllite\message_layer.c
+mpu test\message_layer.o: ..\..\DMP_Lib\mllite\message_layer.h
+mpu test\message_layer.o: ..\..\DMP_Lib\driver\include\mltypes.h
+mpu test\message_layer.o: ..\..\DMP_Lib\driver\include\stdint_invensense.h
+mpu test\message_layer.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mpu test\message_layer.o: F:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mpu test\message_layer.o: F:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+mpu test\message_layer.o: F:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mpu test\message_layer.o: ..\..\DMP_Lib\driver\include\log.h
+mpu test\message_layer.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mpu test\message_layer.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h

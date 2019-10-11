@@ -1,0 +1,11 @@
+mpu test\start_manager.o: ..\..\DMP_Lib\mllite\start_manager.c
+mpu test\start_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mpu test\start_manager.o: ..\..\DMP_Lib\driver\include\log.h
+mpu test\start_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mpu test\start_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+mpu test\start_manager.o: ..\..\DMP_Lib\mllite\start_manager.h
+mpu test\start_manager.o: ..\..\DMP_Lib\driver\include\mltypes.h
+mpu test\start_manager.o: ..\..\DMP_Lib\driver\include\stdint_invensense.h
+mpu test\start_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mpu test\start_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\errno.h
+mpu test\start_manager.o: F:\Keil5\ARM\ARMCC\Bin\..\include\limits.h

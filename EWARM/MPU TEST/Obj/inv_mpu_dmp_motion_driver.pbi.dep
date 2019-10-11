@@ -1,0 +1,20 @@
+inv_mpu_dmp_motion_driver.pbi: \
+  E:\CubeWorkSpace\DMP_Lib\driver\eMPL\inv_mpu_dmp_motion_driver.c \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdio.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  E:\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdlib.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_stdlib.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\math.h \
+  E:\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_float_setup.h \
+  E:\CubeWorkSpace\DMP_Lib\driver\eMPL/inv_mpu.h \
+  E:\CubeWorkSpace\DMP_Lib\driver\eMPL/inv_mpu_dmp_motion_driver.h \
+  E:\CubeWorkSpace\DMP_Lib\driver\eMPL/dmpKey.h \
+  E:\CubeWorkSpace\DMP_Lib\driver\eMPL/dmpmap.h
